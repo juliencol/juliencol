@@ -6,4 +6,5 @@
   <a href="https://twitter.com/JulienColombain/">Twitter</a> 
 </p>
 
-I am a 20 years old computer science major passionate about Mathematics and technology. Currently in my third year at Isep, I am specializing in software engineering with a particular interest for backend and infrastructure.
+Hi 👋, I'm Julien, a Computer Science student living in Paris, specialized in **Software Engineering** with a particular interest for **Backend** and **Infrastructure**.
+
