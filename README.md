@@ -1,4 +1,4 @@
-![logo](https://github.com/juliencol/juliencol/blob/master/img/juliencol.png)
+
 
 <p align="center">
   <a href="https://juliencol.dev">Website</a> -
