@@ -5,3 +5,4 @@
 </p>
 
 Hi 👋, I'm Julien, a Computer Science student living in Paris. 
+I enjoy solving problems and writing code.
