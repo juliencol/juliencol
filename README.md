@@ -4,5 +4,5 @@
   <a href="https://twitter.com/JulienColombain/">Twitter</a> 
 </p>
 
-Hi 👋, I'm Julien, a Computer Science student living in Paris. 
+Hi 👋, I'm Julien, a Computer Science student living in Paris. </br>
 I enjoy solving problems and writing code.
