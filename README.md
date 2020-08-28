@@ -5,4 +5,5 @@
 </p>
 
 Hi 👋, I'm Julien, a computer science student living in Paris. </br>
-I enjoy solving problems and writing code.
+Currently working at [Deepsense](http://thedeepsense.co/) as a Software Engineer Intern. </br>
+ I enjoy developing seamless performing technologies.
