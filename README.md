@@ -21,4 +21,3 @@
 [twitter]: https://twitter.com/JulienColombain
 [linkedin]: https://www.linkedin.com/in/julien-colombain
 [website]: https://juliencol.dev
-
