@@ -16,8 +16,6 @@
 }
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=juliencol&show_icons=true&theme=gotham" alt="Julien Colombain | Stats" />
-
 [twitter]: https://twitter.com/JulienColombain
 [linkedin]: https://www.linkedin.com/in/julien-colombain
 [website]: https://juliencol.dev
