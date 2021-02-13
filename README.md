@@ -9,8 +9,6 @@
   "description": "Computer Science Student",
   "school": "ISEP",
   "city": "Paris",
-  "company": "Deepsense"
-  "position": "Software Engineer Intern",
   "interests": ["Deeptech", "Fintech"],
   "age": 21
 }
